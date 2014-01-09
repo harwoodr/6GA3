@@ -10,6 +10,4 @@ arduino contains the three sketches for the arduino side
 TODO:
 
 Add schematic
-Add report document
-Add state machine diagrams
 Add videos of working system
