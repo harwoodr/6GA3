@@ -9,5 +9,3 @@ arduino contains the three sketches for the arduino side
 
 TODO:
 
-Add schematic
-Add videos of working system
